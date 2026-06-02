@@ -321,7 +321,7 @@ class SurveyApp:
         ).pack(pady=(0, 10))
 
         # Clinical Guidance Note
-        note_text = "Note: Higher scores indicate areas you should consider evaluating further after meeting with your client."
+        note_text = "Higher scores indicate greater levels of color-blind racial attitudes, racial privilege unawareness, and institutional discrimination unawareness.”
         tk.Label(
             self.left_frame, text=note_text, font=("Helvetica", 10, "italic"), fg="#6c757d", wraplength=550,
             justify="left"

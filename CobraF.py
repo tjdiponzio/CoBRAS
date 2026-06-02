@@ -70,7 +70,7 @@ class SurveyApp:
                 "reverse": True,
             },
             {
-                "text": "White people in the U.S. are discriminated against because of the color their skin",
+                "text": "White people in the U.S. are discriminated against because of the color of their skin",
                 "subscale": "Unawareness of Institutional Discrimination",
                 "reverse": False,
             },
